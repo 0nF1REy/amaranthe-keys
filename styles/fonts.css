@@ -1,0 +1,24 @@
+@font-face {
+  font-family: gamelia;
+  src: url("../assets/font/gamelia.otf") format("truetype");
+}
+
+@font-face {
+  font-family: musical-tone;
+  src: url("../assets/font/musical-tone.otf") format("truetype");
+}
+
+@font-face {
+  font-family: staatliches;
+  src: url("../assets/font/staatliches.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: monsier;
+  src: url("../assets/font/monsier-regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: brewery;
+  src: url("../assets/font/local-brewery.otf") format("truetype");
+}
